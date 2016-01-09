@@ -1,0 +1,22 @@
+{
+  "name": "slack-tex-heroku",
+  "version": "1.0.0",
+  "description": ".",
+  "main": "bot.js",
+  "dependencies": {
+    "fs": "0.0.2",
+    "mathmode": "0.0.4",
+    "request": "^2.67.0",
+    "slackbots": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johannesu/slack-tex-heroku.git"
+  },
+  "author": "Johannes Ulén",
+  "license": "MIT"
+}
